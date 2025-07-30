@@ -1,0 +1,13 @@
+{
+    "vendors": [
+        {
+            "id": "milesight-iot",
+            "name": "Milesight IoT",
+            "logo": "vendors/milesight-iot/logo.png",
+            "website": "https://www.milesight-iot.com",
+            "description": "Make Sensing Matter",
+            "oui": "825481",
+            "devices": "DanielRPM6/Shengda/devices.json"
+        }
+    ]
+}
